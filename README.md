@@ -1,5 +1,5 @@
 # capsFix
-A python module to mess with the capitalization of strings.
+    A python module to mess with the capitalization of strings.
 # Functions:
 ##  lowerCase(mainIn):
     This is used to make an input variable(any variable type that can be concatenated to a string will work) all lowercase.
