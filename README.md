@@ -20,4 +20,4 @@
     Var. Meaning:
         mainIn: The main input variable. MUST be of a variable type that be concatenated to a string.
 # How To Use:
-    Paste capsFix.py into whatever folder of the prodject you are working on and then import it into whatever python script you are going to use it on.
+    Paste capsfix.py into whatever folder of the prodject you are working on and then import it into whatever python script you are going to use it on.
